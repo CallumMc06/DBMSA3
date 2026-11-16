@@ -80,7 +80,7 @@ public class StudentApplication {
     public static void main(String[] args) {
         String url = "jdbc:postgresql://localhost:5432/School";
         String user = "postgres";
-        String password = "snooze20ff";
+        String password = "your_password";
 
         try {
             Class.forName("org.postgresql.Driver");
