@@ -107,5 +107,3 @@ BEGIN
 	RETURN FOUND;
 END;
 $$;
-
-SELECT * FROM getAllStudents();
