@@ -20,3 +20,5 @@ Steps to running
    and
    java -cp ".;postgresql-42.7.14.jar" StudentApplication
    To run the application with the tests
+
+https://youtu.be/WZbbxmnkw58
